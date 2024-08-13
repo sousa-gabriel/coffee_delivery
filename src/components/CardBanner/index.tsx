@@ -1,5 +1,4 @@
 import * as S from "./styles";
-
 interface CardBannerProps {
   IconComponent: React.ReactNode;
   label: string;

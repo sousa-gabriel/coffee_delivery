@@ -2,7 +2,7 @@ import * as S from "./styles";
 import banner from "../../assets/svg/Banner.svg";
 import backGround from "../../assets/svg/BackgroundBanner.svg";
 import { Coffee, Package, ShoppingCart, Timer } from "phosphor-react";
-import { CardBanner } from "../CardBanner";
+import { CardBanner } from "../cardBanner";
 
 export function Banner() {
   return (
